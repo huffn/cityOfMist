@@ -1,7 +1,7 @@
 # What Core Moves Are
 From [Blademaster](https://www.reddit.com/r/cityofmist/comments/chshhl/new_mc_guide_overview_of_the_core_moves/) on Reddit
 
-One of the traps I felt into was thinking that Core Moves defined what my character could do. After all, this is how other RPGs worked. Do not fall into this trap.
+One of the traps I fell into was thinking that Core Moves defined what my character could do. After all, this is how other RPGs worked. Do not fall into this trap.
 
 Core Moves are what a **player** can do to change the scene, for better or worse. They mirror the actions that a player would want their character to take in a scene to change the narrative.
 
